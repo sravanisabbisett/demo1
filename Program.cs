@@ -6,7 +6,7 @@ namespace demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello sravani!");
+            Console.WriteLine("Hello rupika!");
             Console.ReadKey();
         }
     }
